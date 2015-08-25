@@ -88,7 +88,7 @@ shinyServer(function(input, output) {
                 txt <- "<h2>About</h2>
                 <p>Exploring Virginia Medical Practices (EVMP) was developed entirely using the R programming language. The app uses several packages to harvest the data from an externally maintained, publicly available Application Programming Interface (API). Use the button below to access slides detailing the methods, features and use cases for the app.</p>
                 <a href='http://vpnagraj.github.io/evmp/evmp.html'><button class='btn btn-default'>Click To View EVMP Presentation</button></a>
-                <a href='http://https://github.com/vpnagraj/evmp/'><button class='btn btn-default'>Click To View Code For EVMP</button></a>"
+                <a href='https://github.com/vpnagraj/evmp/'><button class='btn btn-default'>Click To View Code For EVMP</button></a>"
 
                 
         })
